@@ -1,9 +1,8 @@
 ### Hi there ✌️, I am Abishek 
-🗣️ Actively seeking full-time opportunities starting <b>May 2021</b>
-
-* 🔭 I’m currently working on my Master's degree at the [University of Utah](https://www.cs.utah.edu/)
-* 🌱 I’m currently learning all things computer science & more 📕
-* 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/abishek-krishnan/)<br/><br/>
+- 🗣️ Actively seeking full-time opportunities starting <b>May 2021</b><br/><br/>
+  * 🔭 I’m currently working on my Master's degree at the [University of Utah](https://www.cs.utah.edu/)
+  * 🌱 I’m currently learning all things computer science & more 📕
+  * 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/abishek-krishnan/)<br/><br/>
 - 👔 Work Experience
   * Software Engineer Intern at [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) (June - August 2020)
   * Applications Engineer at [Oracle](https://www.oracle.com/index.html) (July 2016 - July 2019)

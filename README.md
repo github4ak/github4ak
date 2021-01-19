@@ -9,7 +9,7 @@
   * Software Engineer Intern at [Flipkart](https://www.flipkart.com/) (July 2015 - Decemeber 2019)<br/><br/>
 - 🖥️ My recent projects<br/><br/>
    * [Prashnottar](https://github.com/github4ak/prashnottar) a Question-Answering system for reading compreshension tasks using NLP techniques 🙋 
-   * [Avalanche Forecast Explorer](https://github.com/github4ak/dataviscourse-pr-avalanche-explorer) data visualization using D3 for [Utah Avalanche Center](https://utahavalanchecenter.org/) ❄️<br/><br/>
+   * [Avalanche Forecast Explorer](https://github.com/github4ak/dataviscourse-pr-avalanche-explorer) data visualization using D3 of [Utah Avalanche Center](https://utahavalanchecenter.org/) website ❄️<br/><br/>
 - 🧰 Favorites<br/><br/>
   * Programming Language: Java ☕
   * Database: Oracle DB 🗃️
